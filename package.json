@@ -12,5 +12,9 @@
     "type": "git",
     "url": "https://github.com/tbaba/spa-note"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
 }
